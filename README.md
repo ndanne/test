@@ -1,9 +1,13 @@
 # Test git 
 #this is Test reposotry for practice Git
 
+git config 
+
 git add
 
-git add '*.txt'
+git add '*.txt' (or) git add --All
+git add doc/
+// doc is directory name
 
 git commite -m 'Added with comment'
 
